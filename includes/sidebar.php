@@ -51,11 +51,11 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="./index.html" class="nav-link">
-                  <!-- active -->
+              <a href="<?php echo '../general/general-top-section.php'; ?>" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Header Top Section</p>
-                </a>
+              </a>
+
               </li>
       
             </ul>
@@ -156,27 +156,27 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../courses/courses-list.html" class="nav-link">
+                <a href="../courses/courses-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Courses List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../courses/add-course.html" class="nav-link">
+                <a href="../courses/add-course.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add Course</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../courses/category-list.html" class="nav-link">
+                <a href="../courses/category-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Category List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../courses/add-category.html" class="nav-link">
+                <a href="../courses/add-category.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Add Courses</p>
+                  <p>Add Category</p>
                 </a>
               </li>
             </ul>
@@ -192,37 +192,37 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../news/news-list.html" class="nav-link">
+                <a href="../news/news-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>News List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../news/add-news.html" class="nav-link">
+                <a href="../news/add-news.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add News</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../news/news-list.html" class="nav-link">
+                <a href="../news/category-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>News Category List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../news/add-category.html" class="nav-link">
+                <a href="../news/add-category.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add News Category</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../news/tag-list.html" class="nav-link">
+                <a href="../news/tag-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>News Tags List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../news/add-tag.html" class="nav-link">
+                <a href="../news/add-tag.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add News Tags</p>
                 </a>
@@ -240,13 +240,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../events/event-list.html" class="nav-link">
+                <a href="../events/event-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Events List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../events/add-event.html" class="nav-link">
+                <a href="../events/add-event.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add Event</p>
                 </a>
@@ -264,13 +264,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../testimonials/testimonials-list.html" class="nav-link">
+                <a href="../testimonials/testimonials-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Testimonials List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../testimonials/add-testimonial.html" class="nav-link">
+                <a href="../testimonials/add-testimonial.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add Testimonials</p>
                 </a>
@@ -312,13 +312,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../faq/faq-list.html" class="nav-link">
+                <a href="../faq/faq-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>FAQs List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../faq/add-faq.html" class="nav-link">
+                <a href="../faq/add-faq.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add FAQs</p>
                 </a>
@@ -336,13 +336,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../facilitators/facilitators-list.html" class="nav-link">
+                <a href="../facilitators/facilitators-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Facilitators List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../facilitators/add-facilitator.html" class="nav-link">
+                <a href="../facilitators/add-facilitator.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add Facilitator</p>
                 </a>
@@ -360,13 +360,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../certifications/certifications-list.html" class="nav-link">
+                <a href="../certifications/certifications-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Certificates List</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../certifications/add-certification.html" class="nav-link">
+                <a href="../certifications/add-certification.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add Certificate</p>
                 </a>
@@ -376,7 +376,7 @@
 
 
           <li class="nav-item">
-            <a href="../client-mesages/index.html" class="nav-link">
+            <a href="../client-mesages/index.php" class="nav-link">
               <i class="nav-icon far fa-address-book"></i>
               <p>Manage Contacts</p>
             </a>
