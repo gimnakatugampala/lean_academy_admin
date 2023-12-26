@@ -69,7 +69,8 @@
     <!-- Main content -->
     <section class="content">
       <div class="container-fluid">
-        <div class="row">
+        <div class="card row p-3">
+
           <div class="col-12">
              <!-- general form elements -->
              <div class="card card-primary">
@@ -82,25 +83,118 @@
                 <div class="card-body">
 
                   <div class="form-group">
-                    <label for="exampleInputEmail1">Title 1</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                    <label for="exampleInputEmail1">Title</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Title One">
                   </div>
 
                   <div class="form-group">
-                    <label for="exampleInputPassword1">Password</label>
-                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                    <label for="exampleInputPassword1">Subtitle</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter Subtitle">
+                  </div>
+
+                  <div class="form-group">
+                    <label for="exampleInputPassword1">Paragraph</label>
+                    <textarea class="form-control" rows="3" placeholder="Enter ..."></textarea>
+                  </div>
+
+                  <div class="form-group">
+                    <label for="exampleInputFile">Background Image</label>
+                    <div class="input-group">
+                      <div class="custom-file">
+                        <input type="file" class="custom-file-input" id="exampleInputFile">
+                        <label class="custom-file-label" for="exampleInputFile">Choose file</label>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="row">
+                      <div class="col-md-6">
+                      <div class="form-group">
+                      <label for="exampleInputEmail1">Button 1 Text</label>
+                      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Text">
+                    </div>
+                      </div>
+
+                      <div class="col-md-6">
+                      <div class="form-group">
+                        <label for="exampleInputEmail1">Button 1 Link</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Link">
+                      </div>  
+                      </div>
+
                   </div>
             
                 </div>
                 <!-- /.card-body -->
-
-                <div class="card-footer">
-                  <button type="submit" class="btn btn-primary">Submit</button>
-                </div>
               </form>
             </div>
             <!-- /.card -->
           </div>
+
+          <div class="col-12">
+             <!-- general form elements -->
+             <div class="card card-primary">
+              <div class="card-header">
+                <h3 class="card-title">Slide 2</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <form>
+                <div class="card-body">
+
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Title</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Title One">
+                  </div>
+
+                  <div class="form-group">
+                    <label for="exampleInputPassword1">Subtitle</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter Subtitle">
+                  </div>
+
+                  <div class="form-group">
+                    <label for="exampleInputPassword1">Paragraph</label>
+                    <textarea class="form-control" rows="3" placeholder="Enter ..."></textarea>
+                  </div>
+
+                  <div class="form-group">
+                    <label for="exampleInputFile">Background Image</label>
+                    <div class="input-group">
+                      <div class="custom-file">
+                        <input type="file" class="custom-file-input" id="exampleInputFile">
+                        <label class="custom-file-label" for="exampleInputFile">Choose file</label>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="row">
+                      <div class="col-md-6">
+                      <div class="form-group">
+                      <label for="exampleInputEmail1">Button 1 Text</label>
+                      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Text">
+                    </div>
+                      </div>
+
+                      <div class="col-md-6">
+                      <div class="form-group">
+                        <label for="exampleInputEmail1">Button 1 Link</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Link">
+                      </div>  
+                      </div>
+
+                  </div>
+            
+                </div>
+                <!-- /.card-body -->
+              </form>
+            </div>
+            <!-- /.card -->
+          </div>
+
+          <div class="card-footer">
+                  <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+
           <!-- /.col -->
         </div>
         <!-- /.row -->
