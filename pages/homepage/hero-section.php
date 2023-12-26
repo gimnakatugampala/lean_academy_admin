@@ -123,6 +123,23 @@
                       </div>
 
                   </div>
+
+                  <div class="row">
+                      <div class="col-md-6">
+                      <div class="form-group">
+                      <label for="exampleInputEmail1">Button 2 Text</label>
+                      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Text">
+                    </div>
+                      </div>
+
+                      <div class="col-md-6">
+                      <div class="form-group">
+                        <label for="exampleInputEmail1">Button 2 Link</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Link">
+                      </div>  
+                      </div>
+
+                  </div>
             
                 </div>
                 <!-- /.card-body -->
@@ -178,6 +195,23 @@
                       <div class="col-md-6">
                       <div class="form-group">
                         <label for="exampleInputEmail1">Button 1 Link</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Link">
+                      </div>  
+                      </div>
+
+                  </div>
+
+                  <div class="row">
+                      <div class="col-md-6">
+                      <div class="form-group">
+                      <label for="exampleInputEmail1">Button 2 Text</label>
+                      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Text">
+                    </div>
+                      </div>
+
+                      <div class="col-md-6">
+                      <div class="form-group">
+                        <label for="exampleInputEmail1">Button 2 Link</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Link">
                       </div>  
                       </div>
