@@ -51,7 +51,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-              <a href="<?php echo '../general/general-top-section.php'; ?>" class="nav-link">
+              <a href="../generalpage/general-top-section.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Header Top Section</p>
               </a>
@@ -71,9 +71,9 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="./index2.html" class="nav-link">
+                <a href="../homepage/hero-section.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Show Case Section</p>
+                  <p>Hero Section</p>
                 </a>
               </li>
               <li class="nav-item">
