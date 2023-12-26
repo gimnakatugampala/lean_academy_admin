@@ -55,7 +55,13 @@
                   <i class="far fa-circle nav-icon"></i>
                   <p>Header Top Section</p>
               </a>
+              </li>
 
+              <li class="nav-item">
+              <a href="../generalpage/service-section.php" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Service Section</p>
+              </a>
               </li>
       
             </ul>
@@ -77,9 +83,9 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="./index3.html" class="nav-link">
+                <a href="../homepage/hero-section.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Service Section</p>
+                  <p>4<sup>th</sup> Section(Core Values)</p>
                 </a>
               </li>
             </ul>
