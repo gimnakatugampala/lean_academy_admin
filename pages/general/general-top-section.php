@@ -54,12 +54,12 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-10">
-            <h1>Add Certification</h1>
+            <h1>Header Top Section</h1>
           </div>
           <div class="col-sm-2">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Certification</li>
+              <li class="breadcrumb-item active">General</li>
             </ol>
           </div>
         </div>
@@ -76,67 +76,71 @@
             <div class="card">
               <div class="card-body">
 
+              <div class="form-group">
+              <label>Email</label>
+              <div class="input-group">
+                  <div class="input-group-prepend">
+                    <span class="input-group-text">@</span>
+                  </div>
+                  <input type="text" class="form-control" placeholder="Enter Email">
+                </div>
+              </div>
+
+
+
+                  <div class="form-group">
+                  <label>Phone Call</label>
+                  <div class="input-group">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                    </div>
+                    <input type="text" class="form-control" data-inputmask='"mask": "(999) 999-9999"' data-mask>
+                  </div>
+                </div>
+
                 <div class="form-group">
-                    <label>Course*</label>
-                    <select class="form-control select2" style="width: 100%;">
-                      <option selected="selected">Alabama</option>
-                      <option>Alaska</option>
-                      <option>California</option>
-                      <option>Delaware</option>
-                      <option>Tennessee</option>
-                      <option>Texas</option>
-                      <option>Washington</option>
-                    </select>
+                  <label>Facebook Link</label>
+                  <div class="input-group">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="fab fa-facebook"></i></span>
+                    </div>
+                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Facebook Username">
                   </div>
+                </div>
 
-                  <div class="form-group">
-                    <label for="exampleInputEmail1">Student ID</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Student ID">
+                <div class="form-group">
+                  <label>Twitter Link</label>
+                  <div class="input-group">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="fab fa-twitter"></i></span>
+                    </div>
+                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Twitter Username">
                   </div>
+                </div>
 
-                  <div class="form-group">
-                    <label for="exampleInputEmail1">Student Name</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Student Name">
+                <div class="form-group">
+                  <label>Instagram Link</label>
+                  <div class="input-group">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="fab fa-instagram"></i></span>
+                    </div>
+                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Instagram Username">
                   </div>
+                </div>
 
-                  <div class="form-group">
-                    <label for="exampleInputEmail1">Student NIC</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Student ID">
+                <div class="form-group">
+                  <label>Youtube Link</label>
+                  <div class="input-group">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="fab fa-youtube"></i></span>
+                    </div>
+                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter Youtube Username">
                   </div>
+                </div>
 
-                  <div class="form-group">
-                    <label>Student Grade</label>
-                    <select class="form-control select2" style="width: 100%;">
-                      <option selected="selected">Alabama</option>
-                      <option>Alaska</option>
-                      <option>California</option>
-                      <option>Delaware</option>
-                      <option>Tennessee</option>
-                      <option>Texas</option>
-                      <option>Washington</option>
-                    </select>
-                  </div>
+             
 
-                  <div class="form-group">
-                    <label for="exampleInputEmail1">Certificate ID</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Certificate ID">
-                  </div>
-
-                  <div class="form-group">
-                    <label>Certificate Status</label>
-                    <select class="form-control select2" style="width: 100%;">
-                      <option selected="selected">Alabama</option>
-                      <option>Alaska</option>
-                      <option>California</option>
-                      <option>Delaware</option>
-                      <option>Tennessee</option>
-                      <option>Texas</option>
-                      <option>Washington</option>
-                    </select>
-                  </div>
-
-           
-
+                  
                   <button type="button" class="btn bg-gradient-primary">Submit</button>
 
              
