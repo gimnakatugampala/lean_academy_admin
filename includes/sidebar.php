@@ -125,21 +125,9 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="./index.html" class="nav-link">
+                <a href="../contactpage" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Header Top Section</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="./index2.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Show Case Section</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Service Section</p>
+                  <p>Contact Details</p>
                 </a>
               </li>
             </ul>
