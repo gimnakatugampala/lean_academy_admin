@@ -68,7 +68,7 @@
               <li class="breadcrumb-item"><a href="#">Home</a></li>
               <li class="breadcrumb-item active">Courses</li>
             </ol> -->
-            <a href="../../pages/testimonials/add-testimonial.html" type="button" class="btn btn-block bg-gradient-primary"><i class="fas fa-plus"></i> Add Testimonial</a>
+            <a href="../../pages/testimonials/add-testimonial.php" type="button" class="btn btn-block bg-gradient-primary"><i class="fas fa-plus"></i> Add Testimonial</a>
           </div>
         </div>
       </div><!-- /.container-fluid -->
@@ -106,7 +106,7 @@
                     <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, totam velit. Expedita mollitia doloremque sit.</td>
                     <td>
                       <button type="button" class="btn bg-gradient-primary"><i class="fas fa-eye"></i></button>
-                      <a href="./edit-testimonials.html" type="button" class="btn bg-gradient-info"><i class="fas fa-edit"></i></a>
+                      <a href="./edit-testimonials.php" type="button" class="btn bg-gradient-info"><i class="fas fa-edit"></i></a>
                       <button type="button" class="btn bg-gradient-danger"><i class="fas fa-trash-alt"></i></button>
                     </td>
                   </tr>

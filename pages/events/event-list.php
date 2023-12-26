@@ -68,7 +68,7 @@
               <li class="breadcrumb-item"><a href="#">Home</a></li>
               <li class="breadcrumb-item active">Courses</li>
             </ol> -->
-            <a href="../../pages/events/add-event.html" type="button" class="btn btn-block bg-gradient-primary"><i class="fas fa-plus"></i> Add Event</a>
+            <a href="../../pages/events/add-event.php" type="button" class="btn btn-block bg-gradient-primary"><i class="fas fa-plus"></i> Add Event</a>
           </div>
         </div>
       </div><!-- /.container-fluid -->
@@ -106,7 +106,7 @@
                     <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur, quo laboriosam, quae nam, temporibus facilis sunt voluptate corporis fuga doloremque amet soluta quisquam. Pariatur est sed itaque dolorum et libero?</td>
                     <td>
                       <button type="button" class="btn bg-gradient-primary"><i class="fas fa-eye"></i></button>
-                      <a href="./edit-event.html" type="button" class="btn bg-gradient-info"><i class="fas fa-edit"></i></a>
+                      <a href="./edit-event.php" type="button" class="btn bg-gradient-info"><i class="fas fa-edit"></i></a>
                       <button type="button" class="btn bg-gradient-danger"><i class="fas fa-trash-alt"></i></button>
                     </td>
                   </tr>

@@ -108,7 +108,7 @@
                     <td><span class="badge badge-lg bg-danger">Read</span></td>
                     <td>
                       <button data-toggle="modal" data-target="#view-msg" type="button" class="btn bg-gradient-primary"><i class="fas fa-eye"></i></button>
-                      <a href="./reply-email.html" type="button" class="btn bg-gradient-warning"><i class="fas fa-at"></i></a>
+                      <a href="./reply-email.php" type="button" class="btn bg-gradient-warning"><i class="fas fa-at"></i></a>
                       <button type="button" class="btn bg-gradient-danger"><i class="fas fa-trash-alt"></i></button>
                     </td>
                   </tr>

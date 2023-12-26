@@ -68,7 +68,7 @@
               <li class="breadcrumb-item"><a href="#">Home</a></li>
               <li class="breadcrumb-item active">Courses</li>
             </ol> -->
-            <a href="../../pages/courses/add-category.html" type="button" class="btn btn-block bg-gradient-primary"><i class="fas fa-plus"></i> Add Category</a>
+            <a href="../../pages/courses/add-category.php" type="button" class="btn btn-block bg-gradient-primary"><i class="fas fa-plus"></i> Add Category</a>
           </div>
         </div>
       </div><!-- /.container-fluid -->
@@ -104,7 +104,7 @@
                     <td>2023-12-22</td>
                     <td>
                       <button type="button" class="btn bg-gradient-primary"><i class="fas fa-eye"></i></button>
-                      <a href="./edit-category.html" type="button" class="btn bg-gradient-info"><i class="fas fa-edit"></i></a>
+                      <a href="./edit-category.php" type="button" class="btn bg-gradient-info"><i class="fas fa-edit"></i></a>
                       <button type="button" class="btn bg-gradient-danger"><i class="fas fa-trash-alt"></i></button>
                     </td>
                   </tr>

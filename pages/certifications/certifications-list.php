@@ -68,7 +68,7 @@
               <li class="breadcrumb-item"><a href="#">Home</a></li>
               <li class="breadcrumb-item active">Courses</li>
             </ol> -->
-            <a href="../../pages/certifications/add-certification.html" type="button" class="btn btn-block bg-gradient-primary"><i class="fas fa-plus"></i> Add Certification</a>
+            <a href="../../pages/certifications/add-certification.php" type="button" class="btn btn-block bg-gradient-primary"><i class="fas fa-plus"></i> Add Certification</a>
           </div>
         </div>
       </div><!-- /.container-fluid -->
@@ -106,7 +106,7 @@
                     <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, totam velit. Expedita mollitia doloremque sit.</td>
                     <td>
                       <button type="button" class="btn bg-gradient-primary"><i class="fas fa-eye"></i></button>
-                      <a href="./edit-certification.html" type="button" class="btn bg-gradient-info"><i class="fas fa-edit"></i></a>
+                      <a href="./edit-certification.php" type="button" class="btn bg-gradient-info"><i class="fas fa-edit"></i></a>
                       <button type="button" class="btn bg-gradient-danger"><i class="fas fa-trash-alt"></i></button>
                     </td>
                   </tr>
