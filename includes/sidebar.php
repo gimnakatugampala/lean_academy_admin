@@ -88,10 +88,17 @@
                   <p>2<sup>nd</sup> Component</p>
                 </a>
               </li>
+       
               <li class="nav-item">
                 <a href="../homepage/component-four.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>4<sup>th</sup> Component</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="../homepage/component-eleven.php" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>11<sup>th</sup> Component</p>
                 </a>
               </li>
             </ul>
