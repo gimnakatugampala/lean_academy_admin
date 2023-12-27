@@ -101,6 +101,12 @@
                   <p>11<sup>th</sup> Component</p>
                 </a>
               </li>
+              <li class="nav-item">
+                <a href="../homepage/video-component.php" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Video Component</p>
+                </a>
+              </li>
             </ul>
           </li>
 
