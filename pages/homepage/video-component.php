@@ -77,61 +77,37 @@
               <div class="card-body">
 
               <div class="form-group">
-                    <label for="exampleInputEmail1">Subtitle</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Subtitle">
+                    <label for="exampleInputEmail1">Title Part One</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Title Part One">
                 </div>
 
               <div class="form-group">
-                    <label for="exampleInputEmail1">Main Title</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Main Title">
+                    <label for="exampleInputEmail1">Highlight Title</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Highlight Title">
                 </div>
-
 
               <div class="form-group">
-                <label>Paragraph One</label>
-                <textarea class="form-control" rows="3" placeholder="Enter ..."></textarea>
+                    <label for="exampleInputEmail1">Title Part Two</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Title Part Two">
                 </div>
 
                 <div class="form-group">
-                <label>Paragraph Two</label>
-                <textarea class="form-control" rows="3" placeholder="Enter ..."></textarea>
-                </div>
-
-                <div class="form-group">
-                    <label for="exampleInputFile">Image One</label>
+                    <label for="exampleInputFile">Video</label>
                     <div class="input-group">
                       <div class="custom-file">
-                        <input accept="image/*" type="file" class="custom-file-input" id="exampleInputFile">
-                        <label class="custom-file-label" for="exampleInputFile">Choose Image</label>
+                        <input accept="video/*" type="file" class="custom-file-input" id="exampleInputFile">
+                        <label class="custom-file-label" for="exampleInputFile">Choose Video</label>
                       </div>
                     </div>
                   </div>
 
-                  <div class="form-group">
-                    <label for="exampleInputFile">Image Two</label>
-                    <div class="input-group">
-                      <div class="custom-file">
-                        <input accept="image/*" type="file" class="custom-file-input" id="exampleInputFile">
-                        <label class="custom-file-label" for="exampleInputFile">Choose Image</label>
-                      </div>
-                    </div>
-                  </div>
 
-                  <div class="row">
-                    <div class="col-md-6">
-                        <div class="form-group">
-                        <label for="exampleInputEmail1">Button Text</label>
-                        <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Text">
-                    </div>
-                    </div>
+              <div class="form-group">
+                <label>Description</label>
+                <textarea class="form-control" rows="3" placeholder="Enter ..."></textarea>
+                </div>
 
-                    <div class="col-md-6">
-                        <div class="form-group">
-                        <label for="exampleInputEmail1">Button Link</label>
-                        <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Link">
-                    </div>
-                    </div>
-                  </div>
+          
     
                   <button type="button" class="btn bg-gradient-primary">Submit</button>
 
