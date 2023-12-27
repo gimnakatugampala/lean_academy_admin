@@ -58,7 +58,7 @@
               </li>
 
               <li class="nav-item">
-              <a href="../generalpage/service-section.php" class="nav-link">
+              <a href="../generalpage/service-section-list.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Service Section</p>
               </a>
